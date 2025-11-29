@@ -1,7 +1,7 @@
 {
   "version": "1.1.1",
   "releaseDate": "2025-11-16",
-  "downloadUrl": "https://github.com/ShayRed/-ShayHubEdit/releases/download/v1.1.0/",
+  "downloadUrl": "https://github.com/ShayRed/-ShayHubEdit/releases/download/v1.1.1/",
   "files": [
     "ShayHubEdit.exe",
     "ShayHubEdit.exe.config",
@@ -14,4 +14,5 @@
   ],
   "changelog": "🆕 NEUE FEATURES - Version 1.1.0\\n\\n📊 Git-ähnliches Änderungs-Tracking\\n• Separates Changes Panel mit Git-ähnlicher Farbcodierung\\n• Automatisches Tracking aller Zelländerungen, hinzugefügter und gelöschter Zeilen\\n• Filter: All, Changed, Added, Deleted\\n• Undo-Funktion für einzelne Änderungen und alle Änderungen\\n• VNUM-Erkennung bei neuen Zeilen\\n\\n⚠️ Duplikat-Erkennung\\n• Automatische Warnung bei doppelten VNUMs beim Speichern\\n\\n🔍 Verbesserte Suche\\n• Farbliche Markierung der gefundenen Zellen (gelb mit schwarzem Text)\\n• Zeigt genau an, wo der Suchbegriff gefunden wurde\\n\\n🌓 Automatischer Dark/Light Modus\\n• Automatische Erkennung des Windows-Themes\\n• Kein Button nötig - passt sich automatisch an\\n• Sofortige Anpassung bei Theme-Wechsel\\n\\n💡 Zusätzliche Verbesserungen\\n• Spalten-Auswahl: Klick auf Spaltenkopf markiert gesamte Spalte\\n• Spalten-Paste: Ctrl+V fügt Werte in alle markierten Zellen einer Spalte ein\\n• Verbesserte Lesbarkeit: Alle Texte perfekt lesbar in Dark und Light Mode\\n• Professionelles Design: Modernes UI mit automatischer Theme-Erkennung"
 }
+
 
