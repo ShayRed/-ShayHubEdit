@@ -10,8 +10,8 @@
     "System.Memory.dll",
     "System.Numerics.Vectors.dll",
     "System.Runtime.CompilerServices.Unsafe.dll",
-    "Updater.exe"
+    "Updater.exe",
+    "Updater.exe.config"
   ],
   "changelog": "🐛 BUG FIXES\\n\\n• Das Problem, dass die Item Proto / Mob Proto beim Speichern beschädigt wurden, wurde in der neuen Version vollständig behoben!\\n• Ein Memory Leak wurde gefunden und behoben.\\n• Kleinere visuelle Bugs wurden ebenfalls gefixt.\\n• Die Suchfunktion wurde erweitert und kleinere Fehler wurden gefixt.\\n\\n🆕 NEUE FEATURES\\n\\n• Es wurde für die Fliege Files V2/V2 und deren Protos angepasst und kann fehlerfrei damit arbeiten.\\n• Wenn ihr auf einer Zeile Rechtsklick macht, habt ihr mehrere Optionen.\\n\\n⚠️ VORÜBERGEHEND ENTFERNT\\n\\n• Das Git-ähnliche System wurde vorübergehend deaktiviert und wird in der nächsten Version wieder erscheinen.\\n\\n📋 GEPLANT\\n\\n• Es sind einige neue Funktionen geplant, die bald erscheinen werden."
 }
-
